@@ -1,7 +1,5 @@
 const clickBtn = document.getElementById('btn');
-console.log(clickBtn);
 const changeText = document.getElementById('text');
-console.log(changeText);
 
 const asyncText = () => {
   setTimeout(() => {
